@@ -1,0 +1,22 @@
+{
+  "name": "ds1307",
+  "version": "1.0.0",
+  "description": "Kaluma library for DS1307 RTC module",
+  "main": "index.js",
+  "author": "Ross Pashko",
+  "license": "ISC",
+  "keywords": [
+    "kaluma",
+    "RTC",
+    "i2c",
+    "DS1307"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rossdoker/ds1307"
+  },
+  "bugs": {
+    "url": "https://github.com/rossdoker/ds1307"
+  },
+  "homepage": "https://github.com/rossdoker/ds1307"
+}
