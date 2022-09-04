@@ -40,8 +40,8 @@ Create an instance of bh1750 sensor.
 
 #### bh1750.setDate(date)
 Sets date to DS1307 module.
-- **`date`** `<Date>` JavaScript Date object.
+- **`date`** `<Date>` JavaScript Date object to set.
 
 #### bh1750.getDate()
 Returns current date.
-- **`Returns`** `<Date>` JavaScript Date object.
+- **`Returns`** `<Date>` JavaScript current date Date object.
