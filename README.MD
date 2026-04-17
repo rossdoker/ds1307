@@ -1,5 +1,5 @@
 # DS1307
-Kaluma library for DS1307 RTC module
+[Kaluma](https://kalumajs.org) library for DS1307 RTC module
 
 ## Install
 ```bash
